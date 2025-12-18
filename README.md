@@ -22,7 +22,7 @@ Principais tecnologias que utilizo no dia a dia:
 
 <br/>
 
-<div align="center">
+<div align="center" classname="cursor-default" >
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oZanella&show_icons=true&theme=github_dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oZanella&layout=compact&theme=github_dark"/>
 </div>
