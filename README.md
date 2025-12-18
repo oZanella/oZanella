@@ -1,16 +1,28 @@
-## Hi there 👋
+🚀 Sobre Mim
+Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de novos desafios e aprendizados. Atualmente focado em [sua área de interesse/especialização].
 
-<!--
-**oZanella/oZanella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Tecnologias & Ferramentas
+!TypeScript
+!JavaScript
+!Next.js
+!React
+!Node.js
+!Jest
+!Docker
+!Git
 
-Here are some ideas to get you started:
+📫 Como Me Encontrar
+💼 LinkedIn: Henrique Zanella
+📧 Email: henriquezanella19@gmail.com
+🚀 Sobre Mim
+Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de novos desafios e aprendizados. Atualmente focado em Frontend 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tecnologias & Ferramentas
+!TypeScript
+!JavaScript
+!Next.js
+!React
+!Node.js
+!Jest
+!Docker
+!Git
