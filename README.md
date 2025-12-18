@@ -20,7 +20,7 @@ Principais tecnologias que utilizo no dia a dia:
 ### 🐳 Docker
 ### 🌱 Git
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oZanella&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oZanella&show_icons=true&theme=github_dark)
 
 
 📫 Como me encontrar <br/>
