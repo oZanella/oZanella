@@ -2,10 +2,10 @@
 
 # 🚀 Sobre mim
 
-Sou um desenvolvedor Frontend apaixonado por tecnologia e inovação, sempre em busca de novos desafios e aprendizado contínuo.
-Tenho foco em criar interfaces modernas, performáticas e escaláveis, prezando por boas práticas, organização de código e experiência do usuário.
+Atuo como desenvolvedor Frontend com experiência na criação de aplicações utilizando React, Next.js e TypeScript.
+Meu trabalho é guiado por boas práticas, arquitetura de componentes, padronização e preocupação com performance, sempre pensando na manutenção e evolução do sistema a longo prazo.
 
-Atualmente, estou aprofundando meus conhecimentos no ecossistema React / Next.js, com integração a APIs e ferramentas modernas do mercado.
+Atualmente estou aprofundando meus conhecimentos no ecossistema React / Next.js, com foco em integração de APIs, componentização, organização de código e performance.
 
 # 💻 Tecnologias & Ferramentas
 
