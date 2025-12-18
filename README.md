@@ -17,9 +17,7 @@ Atualmente estou aprofundando meus conhecimentos no ecossistema React / Next.js,
 
 Principais tecnologias que utilizo no dia a dia:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oZanella&layout=compact&theme=github_dark)
-
-### ⚡ TypeScript
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"> TypeScript <img/>
 ### 🧠 JavaScript
 ### ⚛️ React.js
 ### 🚀 Next.js
