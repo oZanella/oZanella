@@ -28,6 +28,6 @@ Principais tecnologias que utilizo no dia a dia:
 <br/>
 
 
-📫 Como me encontrar <br/>
+# 📫 Como me encontrar <br/>
 💼 LinkedIn: Henrique Zanella <br/>
 📧 Email: henriquezanella19@gmail.com <br/>
