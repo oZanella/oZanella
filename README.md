@@ -19,15 +19,14 @@ Principais tecnologias que utilizo no dia a dia:
 ### 🧪 Jest
 ### 🐳 Docker
 ### 🌱 Git
-
 <br/>
-
-<div align="center" classname="cursor-default" >
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oZanella&show_icons=true&theme=github_dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oZanella&layout=compact&theme=github_dark"/>
 </div>
-
 <br/>
+<br/>
+
 
 📫 Como me encontrar <br/>
 💼 LinkedIn: Henrique Zanella <br/>
