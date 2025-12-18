@@ -9,17 +9,12 @@ Atualmente estou aprofundando meus conhecimentos no ecossistema React / Next.js,
 
 # 💻 Tecnologias & Ferramentas
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-</div>
 
 Principais tecnologias que utilizo no dia a dia:
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"> TypeScript <img/>
-### 🧠 JavaScript
-### ⚛️ React.js
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" align="center"> TypeScript <img/>
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" align="center"> JavaScript <img/>
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" align="center"/>React.js<img/>
 ### 🚀 Next.js
 ### 🟢 Node.js
 ### 🧪 Jest
